@@ -1,0 +1,16 @@
+cloud check
+Player1 check
+Player2 check
+Player1 coords
+Player2 coords
+local player1 check
+local player2 check
+when green flag clicked
+broadcast start
+wait 2 secs
+if cloud check= 1 then 
+set local player1 check
+set local player2 check
+wait 5 secs
+if local player1 check= player1check then
+set player Id to 1
